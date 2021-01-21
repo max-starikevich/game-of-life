@@ -21,7 +21,7 @@
   "homepage": "https://github.com/max-starikevich/game-of-life-v2#readme",
   "dependencies": {
     "koa": "^2.6.1",
-    "socket.io": "^2.1.1"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "jest": "^24.8.0",
